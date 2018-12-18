@@ -9,5 +9,5 @@
 基本上excel左邊"粗體+斜體"的部分改移下數值便可以使用了。    
 
 # 影片介紹使用方式
-[![【單鏡頭推物體深度】(日常紀錄)(請開字幕)](http://img.youtube.com/vi/AwKVdxcqL1E/0.jpg)](http://bit.ly/2BxgEQe)
+[![【單鏡頭推物體深度】(日常紀錄)(請開字幕)](http://img.youtube.com/vi/AwKVdxcqL1E/0.jpg)](http://bit.ly/2BxgEQe)    
 點上圖前往^^^
